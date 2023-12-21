@@ -9,7 +9,8 @@ To create the solid model from given drawing and section the solid model
 1. Autodesk fusion 360
 2. Windows 10
 3.16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+4. 2.5 Mbps or faster download; 500 Kbps or faster upload
+5. 
 
 ## PROCEDURE:
 1.	Open new file and then select sketch icon.
