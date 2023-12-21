@@ -1,5 +1,6 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+# DEVELOPED BY : LAKSHMI MOUNIKA
+REG NO: 23004124
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -41,7 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-![Screenshot 2023-11-09 085059](https://github.com/mounika2005/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/145633112/f40e4458-62b6-41ba-978e-8e39000e6a84)
+![Screenshot 2023-12-21 090300](https://github.com/mounika2005/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/145633112/1da15f4b-895f-42d0-86f2-28f43c03f795)
+
 
 ## RESULT:
 
